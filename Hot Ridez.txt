@@ -1,0 +1,39 @@
+Jason Paolasini-1162915
+Behram Irani -1142354
+Ben Gardner -1146755
+
+Hot Ridez
+
+Hot Ridez is a 3-D racing game where users must race to the finish line.  You can pick from one of three souped up racers at the start up screen via ray-casting and can examine individual cars with camera rotation and may proceed to the racetrack with the stroke of the enter key as depicted by the text overlay.
+
+Once on the track, the race begins with the countdown of a light. The race begins and you are up against a skilled computer player. Drive forward with the w key and turn with mouse movement and a and d. You will notice the track is illuminated by environmental light and various diffraction patterns can be seen on the cars as they zoom by. You can go fast, but the camera is faster: the camera will always follow behind you so you’re always in control.
+
+Pass the finish line to win! Beat the opponent and you will be rewarded with winning text.
+
+
+Features:
+•	Ray-casting
+•	Camera rotation
+•	Text overlay
+•	Lighting
+•	Intelligent camera movement
+
+
+Controls:
+
+Car Selection Screen
+•	Left-click: select car
+•	Enter: choose car
+•	Left/right: pan camera X
+•	Up/down: pan camera Y
+•	F1/F2: pan camera Z
+•	Esc: quit
+Race Screen
+•	Mouse movement: direct car
+•	W: drive
+•	S: reverse
+•	A: go left
+•	D: go right
+•	Q/E: pan camera Z
+•	R: reset
+•	Esc: quit
